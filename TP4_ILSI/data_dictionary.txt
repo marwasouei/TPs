@@ -1,0 +1,11 @@
+datetime_sighted - Date and Time of the UFO sighting.
+city - City where the UFO was sighted.
+state - The State based on the city where it was sighted.
+country - The country where it was sighted based ont the state.
+ushape - Shape of the UFO sighted
+duration_seconds - Length of the sighting in seconds.
+duration_text - description of the duration of the sighting.
+description_text - The text of the sighting report.
+date_recorded - Date when the sighting was reported to the NUFORC.
+latitude - Latitude of the sighting.
+longitude - Longitude of sighting.
